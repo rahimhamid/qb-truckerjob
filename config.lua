@@ -1,6 +1,6 @@
 Config = {}
 
-Config.BailPrice = 250
+Config.BailPrice = 400
 
 Config.Locations = {
     ["main"] = {
